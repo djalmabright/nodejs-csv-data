@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-csv-data",
+  "version": "1.0.0",
+  "description": "node csv processor",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djalmabright/nodejs-csv-data.git"
+  },
+  "keywords": [
+    "nodejs",
+    "csv",
+    "ejs"
+  ],
+  "author": "Djalma Bina",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/djalmabright/nodejs-csv-data/issues"
+  },
+  "homepage": "https://github.com/djalmabright/nodejs-csv-data#readme"
+}
